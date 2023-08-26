@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TR-HarshGamer2h
 - 👀 I’m interested in Gaming and coding.
-- 🌱 I’m currently learning PCM for JEE and in free time exploring the net related to learning about computer related things.😸
+- 🌱 I’m currently doing I.T. engineering and exploring the internet for computer-related things in my free time.😸
 - 💞️ I’m looking to collaborate on anything I find interesting😎
 - 📫 How to reach me- Guess What?🤣 You can't hosers. Because I live underground😎.
 
