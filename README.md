@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @TR-HarshVVVV
-- 👀 I’m interested in widening my knowledge.
-- 🌱 I’m currently doing I.T. engineering and exploring the internet for computer-related things in my free time.😸
-- 💞️ I’m looking to collaborate on anything I find interesting😎
-- 📫 How to reach me- Guess What?🤣 You can't hosers. 
-
+- 👀 Passionate about learning and continuously expanding my technical knowledge in software development, and emerging technologies.
+- 🌱 Currently pursuing a degree in Information Technology and exploring the world of computing in my spare time, with a focus on AI, cloud computing, and cybersecurity.
+- 💼 Open to collaborating on innovative projects that challenge my skills and contribute to impactful solutions.
+- 📫 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/harsh-verma-9aa095224/) or email at harshkrish2323@gmail.com. Let’s create something amazing together! 😄
 <!---
 TR-HarshGamer2h/TR-HarshGamer2h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
